@@ -4,7 +4,7 @@
 Analyze sales and profit performance using SQL queries.
 
 ## Dataset
-Sales dataset imported into MySQL as `sales_data`.
+Sales dataset imported into MySQL as `global_sales_data`.
 
 ## SQL Tasks Covered
 - Basic SELECT and record count verification
@@ -16,6 +16,7 @@ Sales dataset imported into MySQL as `sales_data`.
 - Exporting query outputs to CSV
 
 ## Files in this Project
-- sales_analysis.sql  (All SQL queries)
-- README.md           (Project documentation)
-- output_csv/         (Exported result files)
+- Quesries_task 3.sql  (All SQL queries)
+- README.md            (Project documentation)
+- sales_summary        (Exported result files)
+
